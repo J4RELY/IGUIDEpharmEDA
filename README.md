@@ -16,6 +16,6 @@ The proposed project contributes to the broader goal of maintaining and improvin
 
                                                           Team members
 
-                        ![IMG_8282](https://github.com/user-attachments/assets/9e0e3bdb-f21d-4e91-a86d-898caa9f256c)
+                       
 
 

@@ -116,7 +116,9 @@ Figure shows model performance for augmented data
 2. In-depth Hyperparameter tuning on dataset and models
 3. DEON Checklist.
 
+Link to Presentation: 
 
+https://docs.google.com/presentation/d/13V_a08ZTWvqVZtICDtesqATO_qrqBWw3xeDS6TDsGHc/edit?usp=sharing
 
 ###                                                    Team members:
 ![IMG_8282](https://github.com/user-attachments/assets/1cec9360-ee0c-4d76-86f0-79aa6492ee9d)

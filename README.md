@@ -1,4 +1,8 @@
+<img width="440" alt="image" src="https://github.com/user-attachments/assets/5d419921-cf4c-409c-9dd5-25d51b42816d">
+
 # Prediction of Pharmaceutical Removal from Wastewater with Machine Learning
+Jude Okolie (team lead), University of Oklahoma; Emmanuel Adeniyi, Louisiana State University; Faezeh Najafzadeh, University of Oklahoma; Jarely Mendez, Virginia Tech; Qianheng Zhang, University of Wisconsin, Madison; Samiha Nuzhat, Missouri State University; Siddiqur Rahman, University of Central Florida
+
 ## Background
 The proposed project aims to address concerns related to the removal of pharmaceuticals pollutants from wastewater, a critical environmental challenge due to the increasing prevalence of these pollutants. 
 Pharmaceuticals as emerging pollutants pose significant risks to both human health and the aquatic ecosystem. Their microscopic nature allows them to often go undetected, thereby complicating efforts to mitigate their impact.
@@ -100,6 +104,9 @@ Figure shows model performance for augmented data
 
 ## Ethics
 <img width="472" alt="image" src="https://github.com/user-attachments/assets/078d2fd9-87cb-49e7-82b1-5bd0f62d8b6c">
+
+## Graphical User Interface
+![GUIpic](https://github.com/user-attachments/assets/9832d997-7a6f-419d-9775-94a51b934da8)
 
 ## Conclusions
 1. ML models can be effective on environmental tasks by enhancing datasets and predicting results
